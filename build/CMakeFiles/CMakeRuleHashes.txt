@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+101e4be9a4d067b63612219a3729c555 /home/ssalerno/Corso_Linux/Assignment1/assignment-1-ssalerno-Cap/assignment-autotest/test/assignment1/Test_hello_Runner.c
